@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on personal practice
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Frontend Web Development
 - 👯 I’m looking to collaborate on projects
 
@@ -18,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-	👀 I’m interested in ...
 -->

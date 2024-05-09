@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  I am a student pursuing a Bachelor's Degree in Mechanical Engineering and Computer Science from Alabama A&M University 🐕‍🦺. I love to explore the world of technology and am a passionate learner. I love to leverage technologies to provide solution to real-life issues. I am interested in software engineering, software development, and robotics. I am currently working on developing my technical skills and programming knowledge. I am open to collaboration and am currently seeking internship opportunities. Click <a href="mailto:moyinadelowo@gmail.com">here</a> to send a mail.
+  I am a student pursuing a Bachelor's Degree in Mechanical Engineering and Computer Science from Alabama A&M University 🐕‍🦺. I love to explore the world of technology and am a passionate learner. I love to leverage technologies to provide solution to real-life issues. I am interested in software engineering, software development, and robotics. I am currently working on developing my technical skills and programming knowledge. I am open to collaboration and am currently seeking internship opportunities. Click <a href="mailto:moyinadelowo@gmail.com">here</a> to contact me.
 </p>
 
 <br />

@@ -1,6 +1,6 @@
 <div id="header" align="center" style="display: "flex"; gap: "100px";">
   <img src="https://media.giphy.com/media/VsdymbuuaqauLN4kZU/giphy.gif?cid=ecf05e477o47ljv7s1mxnmsxl0f5db2mt3v825cn6t2zfwh1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" height="100%" />
 </div>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -79,9 +79,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 <p align="left">
-<a href="https://twitter.com/MoyinAdelowo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/MoyinAdelowo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/twitter.svg&color=#ff0000" alt="" height="30" width="40" color="#ff0000" /></a>
 <a href="https://www.linkedin.com/in/moyinoluwa-adelowo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
+
+
 
 
 

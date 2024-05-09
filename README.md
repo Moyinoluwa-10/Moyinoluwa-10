@@ -1,3 +1,8 @@
+<div style="width: 100%;">
+  <img src="hello.svg" style="width: 100%;" alt="Animated greeting">
+</div>
+
+
 <div id="header" align="center" style="display: "flex"; gap: "100px";">
   <img src="https://media.giphy.com/media/VsdymbuuaqauLN4kZU/giphy.gif?cid=ecf05e477o47ljv7s1mxnmsxl0f5db2mt3v825cn6t2zfwh1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" height="100%" />

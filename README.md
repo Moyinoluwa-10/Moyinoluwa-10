@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  I am a student pursuing a Bachelor's Degree in Mechanical Engineering and Computer Science from Alabama A&M University 🐕‍🦺. I love to explore the world of technology and am a passionate learner. I love to leverage technologies to provide solution to real-life issues. I am interested in software engineering, software development, and robotics. I am currently working on developing my technical skills and programming knowledge. I am open to collaboration and am currently seeking internship opportunities. Click <a href="mailto:moyinadelowo@gmail.com">here</a> to contact me.
+  I am a student pursuing a Bachelor's Degree in Mechanical Engineering with a minor Computer Science from Alabama A&M University 🐕‍🦺. I love to explore the world of technology and am a passionate learner. I love to leverage technologies to provide solution to real-life issues. I am interested in software engineering, software development, and robotics, among other things. I am currently working on developing my technical skills and programming knowledge. I am open to collaboration and am currently seeking internship opportunities. Click <a href="mailto:moyinadelowo@gmail.com">here</a> to contact me.
 </p>
 
 <br />
@@ -50,7 +50,7 @@
 
 <div align="center">
   
-  ![HTML5][html5-shield] &nbsp; ![CSS3][css-shield] &nbsp; ![JavaScript][javascript-shield] &nbsp; ![TypeScript][typescript-shield] &nbsp; ![React][reactjs-shield] &nbsp; ![Next JS][nextjs-shield] &nbsp; ![NodeJS][nodejs-shield] &nbsp; ![MySQL][mysql-shield] &nbsp; ![MongoDB][mongodb-shield] &nbsp; ![Git][git-shield] &nbsp; ![GitHub][github-shield] &nbsp; ![GitLab][gitlab-shield] &nbsp; ![Python][python-shield] &nbsp; ![Jupyter Notebook][jupyter-shield] &nbsp; ![TailwindCSS][tailwind-shield]
+  ![TypeScript][typescript-shield] &nbsp; ![JavaScript][javascript-shield] &nbsp; ![Python][python-shield] &nbsp; ![Next JS][nextjs-shield] &nbsp; ![React][reactjs-shield] &nbsp; ![Jupyter Notebook][jupyter-shield] &nbsp; ![Django][django-shield] &nbsp; ![DjangoREST][djangorest-shield] &nbsp; ![NodeJS][nodejs-shield] &nbsp; ![MongoDB][mongodb-shield] &nbsp; ![MySQL][mysql-shield] &nbsp; ![Git][git-shield] &nbsp; ![GitHub][github-shield] &nbsp; ![GitLab][gitlab-shield] &nbsp; ![HTML5][html5-shield] &nbsp; ![CSS3][css-shield] &nbsp;  ![TailwindCSS][tailwind-shield] &nbsp; 
 
 </div>
 
@@ -90,14 +90,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyinoluwa-10&theme=gotham"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyinoluwa-10&theme=gotham&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyinoluwa-10&theme=github-light"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyinoluwa-10&theme=github-light&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyinoluwa-10&theme=github-light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyinoluwa-10&theme=github-light&layout=compact" />
 </picture>
 
 </div>
@@ -110,7 +110,7 @@
 [altschool-url]: https://altschoolafrica.com/schools/engineering
 [linkedIn-shield]: https://img.shields.io/badge/-moyinoluwaadelowo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moyinoluwa-adelowo
 [linkedin-url]: https://www.linkedin.com/in/moyinoluwa-adelowo/
-[twitter-shield]: https://img.shields.io/badge/-MoyinAdelowo-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/MoyinAdelowo
+[twitter-shield]: https://img.shields.io/badge/-MoyinAdelowo-1ca0f1?style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/MoyinAdelowo
 [twitter-url]: https://twitter.com/MoyinAdelowo
 [html5-shield]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [css-shield]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
@@ -127,6 +127,8 @@
 [github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [gitlab-shield]: https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white
 [tailwind-shield]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[django-shield]: https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
+[djangorest-shield]: https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
 
 
 <!--
